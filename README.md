@@ -3,7 +3,7 @@ Wikipedia talk page code-switching features and editor success scores data. Acco
 
 [Michael Miller Yoder, Shruti Rijhwani, Carolyn Penstein Rose, Lori Levin. (2017). Code-Switching as a Social Act: The Case of Arabic Wikipedia Talk Pages. *Proceedings of the Second Workshop on Natural Language Processing and Computational Social Science (NLP+CSS)*](https://www.aclweb.org/anthology/W17-2911.pdf).
 
-Contact yoder@cs.cmu.edu for scripts for dataset construction or other questions.
+Contact mmyoder@pitt.edu for scripts for dataset construction or other questions.
 
 ## Data columns
 Columns in `arabic_talk_cs_features.csv` are explained here. The above paper has more detail on these features.
